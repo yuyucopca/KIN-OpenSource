@@ -1,0 +1,69 @@
+# Archivos generados por Unreal Engine
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Archivos excluidos de nuestro repositorio parcial
+/Build/
+/Plugins/
+/SylizedProvencal.png
+/blueprints_inventory.csv
+# Local backup
+/.gitignore.backup
+
+# Content filtering
+/Content/**
+!/Content/**/
+!/Content/KinProject/Blueprints/DT_EnemyHit.uasset
+!/Content/KinProject/Blueprints/DT_FireDamage.uasset
+!/Content/KinProject/Characters/Enemies/Tizni/ABP_Tizni.uasset
+!/Content/KinProject/Characters/Enemies/Tizni/BP_Tizni.uasset
+!/Content/KinProject/Blueprints/GI_KIN.uasset
+!/Content/KinProject/Characters/Kin/ABP_Post_KinVer_0.uasset
+!/Content/KinProject/Widgets/W_IntroWebtoon.uasset
+!/Content/KinProject/Widgets/W_InteractPrompt.uasset
+!/Content/KinProject/Widgets/W_PuzzleControls.uasset
+!/Content/KinProject/Widgets/WB_PauseScreen.uasset
+!/Content/KinProject/Widgets/WB_DeathScreen.uasset
+!/Content/KinProject/Widgets/W_HealthBar.uasset
+!/Content/KinProject/Characters/Kin/BP_KinCharacter.uasset
+!/Content/KinProject/Blueprints/BP_Colectible.uasset
+!/Content/KinProject/Blueprints/BP_PuzzleSanct.uasset
+!/Content/KinProject/Blueprints/BP_DoorSanct.uasset
+!/Content/KinProject/Characters/Kin/AnimKin/VRMU_ABP_Unarmed.uasset
+!/Content/KinProject/Widgets/W_EnemyHealthBar.uasset
+!/Content/KinProject/Characters/Enemies/Tizne/ABP_Tizne.uasset
+!/Content/KinProject/Characters/Enemies/Tzimeh/ABP_Tzimeh.uasset
+!/Content/KinProject/Characters/Enemies/Tzimeh/BP_Tzimeh.uasset
+!/Content/KinProject/Widgets/W_Counter.uasset
+!/Content/KinProject/Widgets/W_Objetives.uasset
+!/Content/KinProject/Widgets/W_TizneCounter.uasset
+!/Content/KinProject/Characters/Enemies/Tizne/BP_Tizne.uasset
+!/Content/KinProject/Blueprints/Missions/BP_TizneCombatMission.uasset
+!/Content/KinProject/Blueprints/BP_3DCamaraTrigger.uasset
+!/Content/KinProject/Blueprints/BP_AnimatedWoodenCrate.uasset
+!/Content/KinProject/Blueprints/BP_ComicSanct.uasset
+!/Content/KinProject/Blueprints/BP_ComicSanct_Tiznes.uasset
+!/Content/KinProject/Blueprints/BP_EndSoundTrigger.uasset
+!/Content/KinProject/Blueprints/BP_FixedCameraZone_Trigger.uasset
+!/Content/KinProject/Blueprints/BP_Icni.uasset
+!/Content/KinProject/Blueprints/BP_IcniTrigger.uasset
+!/Content/KinProject/Blueprints/BP_NOPASS.uasset
+!/Content/KinProject/Blueprints/BP_PuzzleTrigger.uasset
+!/Content/KinProject/Blueprints/BP_Trigger.uasset
+!/Content/KinProject/Characters/Icni/ABP_Icni.uasset
+!/Content/KinProject/Characters/Kin/AnimKin/VRMU_ABP_Unarmed1.uasset
+!/Content/KinProject/Characters/Nic/BP_Nic.uasset
+!/Content/KinProject/GameModes/GM_MainMenu.uasset
+!/Content/KinProject/GameModes/GM_OnlyComic.uasset
+!/Content/KinProject/Widgets/W_Thanks.uasset
+!/Content/KinProject/Widgets/W_InitMenu.uasset
+
+# Pending third-party license review
+/Content/KinProject/Blueprints/BP_AnimatedWoodenCrate.uasset
+/Content/KinProject/Characters/Kin/AnimKin/VRMU_ABP_Unarmed.uasset
+/Content/KinProject/Characters/Kin/AnimKin/VRMU_ABP_Unarmed1.uasset
+
+# Editor user preferences
+/Config/DefaultEditorPerProjectUserSettings.ini
