@@ -1,8 +1,8 @@
-\# KIN - Unreal Engine Game Project
+# KIN - Unreal Engine Game Project
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,49 +14,36 @@ The project combines interactive storytelling, exploration, puzzle-solving, comb
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\- Unreal Engine 5.6.1
-
-\- Unreal Engine Blueprints
-
-\- Git and Git LFS
-
-\- Blender
-
-\- C++ (planned for future development)
+* Unreal Engine 5.6.1
+* Unreal Engine Blueprints
+* Git and Git LFS
+* Blender
+* C++ (planned for future development)
 
 
 
-\## Implemented Systems
+## Implemented Systems
 
 
 
-\- Third-person character mechanics
-
-\- Enemy behavior and combat
-
-\- Health and damage systems
-
-\- Character animation logic
-
-\- Interactive puzzles
-
-\- Mission and objective management
-
-\- Camera transitions
-
-\- Interactive narrative sequences
-
-\- User interface and game menus
-
-\- Game state management
+* Third-person character mechanics
+* Enemy behavior and combat
+* Health and damage systems
+* Character animation logic
+* Interactive puzzles
+* Mission and objective management
+* Camera transitions
+* Interactive narrative sequences
+* User interface and game menus
+* Game state management
 
 
 
-\## Repository Scope
+## Repository Scope
 
 
 
@@ -72,23 +59,19 @@ The repository is currently a partial representation of the original project and
 
 
 
-\## Future Development
+## Future Development
 
 
 
-\- Integration of C++ gameplay systems.
-
-\- Development of reusable gameplay components.
-
-\- Code architecture improvements.
-
-\- Performance optimization.
-
-\- Technical documentation.
+* Integration of C++ gameplay systems.
+* Development of reusable gameplay components.
+* Code architecture improvements.
+* Performance optimization.
+* Technical documentation.
 
 
 
-\## Author
+## Author
 
 
 
@@ -100,7 +83,21 @@ Electronics and Telecommunications Engineer | Game Developer
 
 
 
-\## Intellectual Property
+\## License
+
+
+
+The original gameplay programming and technical documentation
+
+made available in this repository are licensed under the MIT License.
+
+
+
+See the LICENSE file for details.
+
+
+
+## Intellectual Property
 
 
 
@@ -125,6 +122,4 @@ All rights to these elements are reserved.
 Third-party content remains subject to its respective licenses.
 
 See THIRD\_PARTY\_NOTICES.md for additional information.
-
-
 

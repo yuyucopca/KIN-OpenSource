@@ -1,6 +1,6 @@
+﻿
 
-
-\# Third-Party Notices
+# Third-Party Notices
 
 
 
@@ -12,57 +12,57 @@ The original project uses the following third-party technologies and resources.
 
 
 
-\## Unreal Engine
+## Unreal Engine
 
 
 
-\- Developer: Epic Games
+- Developer: Epic Games
 
-\- License: Unreal Engine End User License Agreement
+- License: Unreal Engine End User License Agreement
 
-\- Website: https://www.unrealengine.com/
+- Website: https://www.unrealengine.com/
 
-\- License terms: https://www.unrealengine.com/eula/unreal
-
-
-
-\## VRM4U
+- License terms: https://www.unrealengine.com/eula/unreal
 
 
 
-\- Developer: ruyo and contributors
-
-\- License: MIT
-
-\- Repository: https://github.com/ruyo/VRM4U
+## VRM4U
 
 
 
-\## VRoid Studio
+- Developer: ruyo and contributors
+
+- License: MIT
+
+- Repository: https://github.com/ruyo/VRM4U
 
 
 
-\- Developer: pixiv Inc.
-
-\- Website: https://vroid.com/en/studio
-
-\- Usage guidelines: https://vroid.com/en/studio/guidelines
+## VRoid Studio
 
 
 
-\## Adobe Mixamo
+- Developer: pixiv Inc.
+
+- Website: https://vroid.com/en/studio
+
+- Usage guidelines: https://vroid.com/en/studio/guidelines
 
 
 
-\- Developer: Adobe
-
-\- Website: https://www.mixamo.com/
-
-\- Resources: Character animations used in the original game.
+## Adobe Mixamo
 
 
 
-\## Repository Restrictions
+- Developer: Adobe
+
+- Website: https://www.mixamo.com/
+
+- Resources: Character animations used in the original game.
+
+
+
+## Repository Restrictions
 
 
 
@@ -85,6 +85,7 @@ References to external resources may exist within gameplay systems.
 Third-party content remains subject to its respective licenses.
 
 No additional rights to third-party content are granted by this repository.
+
 
 
 
